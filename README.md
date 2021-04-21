@@ -1,2 +1,3 @@
 # Exercicios de python
- Neste repositório eu irei resolver todos os exercicios do curso de pyhton , do canal curso em video.
+---
+ Neste repositório eu irei resolver todos os exercícios do curso de pyhton , do canal curso em video. **Essas são as minhas resoluções, feitos por mim durante o curso.**
