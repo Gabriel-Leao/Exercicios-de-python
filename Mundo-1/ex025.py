@@ -1,4 +1,4 @@
-name = str(input('\033[1;97mDigite seu nome completo: \033[m')).title()
+name = str(input('\033[1;97mDigite seu nome completo: \033[m')).title().strip()
 print('\033[1;97m-\033[m'*65)
 if 'Silva' in name:
     print('\033[1;31mSeu nome tem Silva. Como a maioria dos brasileiros.\033[m')
